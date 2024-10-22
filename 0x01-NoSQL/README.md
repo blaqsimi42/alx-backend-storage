@@ -1,8 +1,13 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
+![mongoMeme](https://media0.giphy.com/media/GRU3ymawL0hq0/200w.webp?cid=ecf05e479cfaljnraypfqjip3c7dacwzdm1xnfnli0k2qwze&ep=v1_gifs_search&rid=200w.webp&ct=g)
+
+
 # Resources
 * Read or watch:
 
-- NoSQL Databases Explained
-- What is NoSQL ?
+- [X] NoSQL Databases Explained
+- [X] What is NoSQL ?
 - MongoDB with Python Crash Course - Tutorial for Beginners
 - MongoDB Tutorial 2 : Insert, Update, Remove, Query
 - Aggregation
